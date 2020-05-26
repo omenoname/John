@@ -275,8 +275,8 @@ header {
 }
 .text-contant {
   float: left;
-  width: 80%;
-  margin: 5px 10% 0;
+  width: 45%;
+  margin: 2% 0% 0% 20%;
   padding: 40px 0 40px;
   border-radius: 0;
   text-align: center;
@@ -289,6 +289,14 @@ header {
   color: #222;
   opacity: 1;
 }
+
+/* .card-block-text {
+  border: 2px solid rgba(0, 0, 0, 0.3);
+  background-color: #fff;
+  height: 150px;
+  border-radius: 5px;
+} */
+
 .icon {
   background: #fff;
   border-radius: 100%;
@@ -321,7 +329,7 @@ header {
   background: #39b49b;
 }
 .typewrite {
-  font-size: 60px;
+  font-size: 50px;
   /* margin-top: 10px; */
   margin-top: 100px;
   float: center;
@@ -330,6 +338,7 @@ header {
   text-shadow: 4px 3px 0 rgba(0, 0, 0, 0);
   letter-spacing: -1px;
   font-weight: 400;
+  line-height: 1.2em;
 }
 body.clinic_version .first-section h2 {
   color: #1f1f1f;
